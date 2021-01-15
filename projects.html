@@ -8,66 +8,26 @@
     </head>
 	<body>
     <h1>
-        Projects
+        <span>
+            SABA'S PROJECTS
+        </span>
     </h1>
-    <h2>
-        Contribution to Robot Compiler (RoCo)
-    </h2>
-    <h3>
-        Project Description
-    </h3>
-    <p>
-            The Robot Compiler (RoCo) is an online tool that generates flat pack designs for a myriad of 
-            objects given user input. A new group was looking to improve upon the project by providing a 
-            more organized front-end. My role was to determine how to generate and save screenshots of 
-            the design file (.stl) using three.js so that they can be used on the front page of the website to 
-            allow for a clear illustration of each component. Throughout this project, I gained familiarity with
-            Javascript and HTML, so much so that I was inspired to create this (shell of a) website in the last few hours.
-    </p>
-    <h3>
-        Methodology
-    </h3>
-    <p>
-            This was my most extensive experience to date with Javascript and HTML, so I began with 
-            familiarizing myself with syntax and trying to determine how different components of the code 
-            appeared on the website. In order to solve my specific problem, I experimented with a portion 
-            of the code that was isolated from the made code base. This code allowed for the viewing and 
-            rotation of a stl file using three.js. I read the documentation available on the three.js website 
-            in order to know which functions were relevant for the purpose of viewing an stl. 
-            I then ran this file by setting up an http server with the very cool and useful terminal command 
-            “python -m http.server.”
-            
-    </p>
-    <p>
-            After the stl was able to be viewed, I adjusted my attention to being able to screenshot and 
-            download any given angle of the stl. I added a screenshot button with HTML, which, upon being 
-            clicked, triggered a function which created a new window with an image of the stl rendering at 
-            the position it was in when the screenshot button was pressed. I essentially did this by creating 
-            a new window, a new image, and making the image equal to the renderer’s information at the 
-            specific perspective the file was being looked at. I also simultaneously allowed for the image 
-            to be downloaded and stored in local storage. In order to store the image locally, I copied the 
-            information into a canvas object, which is allowed to be stored locally. To download the image, 
-            I created a variable that waited for downloads given a click, and always triggered the click 
-            when the screenshot function is called.
-            
-    </p>
-    <h3>
-        Issues
-    </h3>
-    <p>
-            As in every great software project, I ran into several issues over the course of my work on this 
-            project. I was not able to run the given startup file for RoCo, which set up a virtual 
-            environment, because there was some sort of discrepancy between what the code viewed as 
-            the virtual environment and what my computer created. I then just manually created such an 
-            environment with the lines (run sequentially at the path of the repository in the terminal):    
-    </p>
-    <p>
-        virtualenv -p python3 /path/oldroco
-    </p>
-    <p>source /path/oldroco/bin/activate </p>
-    <p>pip3 install -r requirements.txt </p>
-    <p>./runserver.sh</p>
-    <p>It sufficed to run these lines of code for starting the server, as opposed to running ./vstart.sh. </p>   
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-2 top-cta hidden-md">
+            <div class="module-wrap">
+              <div class="text-center">
+            <div>
+                <p>
+                <a href="projects/roco.html"><button class="btn btn-primary" type="button">Roco</button>
+                </p>
+                </a>
+                <p>
+                <a href="projects/tradeapp.html"><button class="btn btn-primary" type="button">Trade App</button>
+                </p>
+                </a>
+            </div>
+            </div>
+            </div>
+        </div>
 <script>
 </script>
     
