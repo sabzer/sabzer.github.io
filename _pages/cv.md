@@ -24,7 +24,7 @@ Bayesian optimization for multi-agent source seeking.<br>
 Thesis: *Collision Avoidance in Motion Planning for a Multi-agent Quadrotor System*
 
 **Johns Hopkins University, Whiting School of Engineering**. *Advisor: Prof. Noah Cowan* (May 2022-Aug 2022)<br>
-Controller-Plant Model of Active Sensing.
+Controller-plant model of active sensing.
 
 ## Talks
 *Decoding Active Sensing via Tracking Behavior in Weakly Electric Fish*, SICB 2023
