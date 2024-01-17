@@ -21,4 +21,4 @@ I am currently a research assistant in the Mathematics Department at Tufts Unive
 
 My research interests primarily lie in control, learning, and optimization, with a focus on developing strategies for decision making under uncertainty in multi-agent systems.
 
-**Email**: saba [dot] zerefa [at] tufts dot edu
+**Email**: saba [dot] zerefa [at] tufts [dot] edu
