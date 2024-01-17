@@ -19,4 +19,6 @@ social: false # includes social icons at the bottom of the page
 
 I am currently a research assistant in the Mathematics Department at Tufts University, where I am fortunate to be advised by [Samantha Petti](https://spetti.github.io/). I recently received my B.S. from Harvard College, where I was fortunate to be advised by [Na Li](https://nali.seas.harvard.edu/).
 
-My research interests primarily lie in control, learning, and optimization, with a focus on developing strategies for decision making under uncertainty in multi-agent systems
+My research interests primarily lie in control, learning, and optimization, with a focus on developing strategies for decision making under uncertainty in multi-agent systems.
+
+**Email**: saba dot zerefa at tufts dot edu
