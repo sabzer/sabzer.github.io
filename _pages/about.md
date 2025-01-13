@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am currently a first-year PhD student at Harvard University, where I am fortunate to be advised by Professor [Na Li](https://nali.seas.harvard.edu/). I received an SB from Harvard College in 2023, where I studied electrical engineering and mathematics.
+I am currently a first-year PhD student in the School of Engineering and Applied Sciences at Harvard University, where I am fortunate to be advised by Professor [Na Li](https://nali.seas.harvard.edu/). I received an SB from Harvard College in 2023, where I studied electrical engineering and mathematics.
 
 My research interests primarily lie in control, learning, and optimization, with a focus on developing strategies for decision making under uncertainty in multi-agent systems.
 
